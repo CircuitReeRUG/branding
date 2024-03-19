@@ -9,4 +9,8 @@ Yep. Title says it all.
   <color name="White" hex="FFFFFF" r="255" g="255" b="255" />
   <color name="White" hex="FFFFFF" r="255" g="255" b="255" />
   <color name="Battleship gray" hex="878787" r="135" g="135" b="135" />
-</palette>```
+</palette>
+```
+
+## Font
+Font is [Press Start 2p](https://www.fontspace.com/press-start-2p-font-f11591)
