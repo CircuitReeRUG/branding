@@ -13,4 +13,4 @@ Yep. Title says it all.
 ```
 
 ## Font
-Font is [Press Start 2p](https://www.fontspace.com/press-start-2p-font-f11591)
+Font is [Press Start 2p](https://www.fontspace.com/press-start-2p-font-f11591) for funky stuff and [Fira Sans](https://fonts.google.com/specimen/Fira%20Sans) for official stuff.
